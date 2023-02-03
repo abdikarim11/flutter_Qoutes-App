@@ -27,7 +27,7 @@ class firstScreen extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: Colors.blue
                   ,
-                  borderRadius: BorderRadius.circular(12),
+                  borderRadius: BorderRadius.circular(13),
                    boxShadow: [
       BoxShadow(
         color: Colors.grey.withOpacity(0.5),
